@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "New Post"
+layout: Post
+title: Westlife
 date: 2013-06-02 11:41
 comments: true
 categories: 
 ---
+Westlife is one the best pop bands that ive heard ever. Before its disbanding in 2012, this band captivated the whole world with its melodious music since it released its first album in 1999. It comprised of five memebers : Shane Filan, Mark Feehily, Brian Mcfadden, Nicky Byrne and Kian Egan but Brian Mcfadden left the band in 2003 due to his altercation with his band members. It released its albums in every consecutive year since 1999 except 2008. Some of its tracks like 'World Of Our Own', 'My Love', 'I Lay My Love On You' are favourites of many people today also.
